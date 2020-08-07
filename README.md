@@ -1,1 +1,1 @@
-<img src="./snapshot/iShot2020-08-07下午07.10.42.png" alt="截图"  height=600/>
+<img src="https://github.com/841660202/taro-icon/blob/master/snapshot/iShot2020-08-07%E4%B8%8B%E5%8D%8807.10.42.png" alt="截图"  height=600/>
